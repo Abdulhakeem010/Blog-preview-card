@@ -19,6 +19,7 @@ main {
 }
 
 .container {
+  cursor: pointer;
   background: #fff;
   width: 384px;
   height: 522px;
@@ -62,7 +63,6 @@ h1{
 
 h1:hover{
 color: hsl(47, 88%, 63%);
-cursor: pointer;
 }
 
 .Published{
@@ -89,10 +89,20 @@ button{
   
 }
 
+button:hover{
+  cursor: pointer;
+  background-color:#102742;
+  color: #f4d04e;
+}
+
 .author{
   display: flex;
   align-items: center;
   gap: 16px;
   margin-right: 190px;
+}
+.author:hover{
+  cursor: pointer;
+  color: hsl(47, 88%, 63%);
 }
 
