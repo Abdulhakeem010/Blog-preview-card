@@ -52,11 +52,17 @@ overflow: hidden;
   height: 72px;
 }
 h1{
+  
   font-family: figtree ExtraBold;
   font-size: 24px;
   color: inherit;
   height: 24px;
   width: 336px;
+}
+
+h1:hover{
+color: hsl(47, 88%, 63%);
+cursor: pointer;
 }
 
 .Published{
