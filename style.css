@@ -12,7 +12,6 @@ body {
 
 main {
   color: #111111;
-  font-family: "Manrope", sans-serif;
   display: flex;
   justify-content: center;
   padding-top: 150px;
@@ -20,6 +19,7 @@ main {
 
 .container {
   cursor: pointer;
+  border: #111111 2px solid;
   background: #fff;
   width: 384px;
   height: 522px;
@@ -28,59 +28,56 @@ main {
   display: flex;
   flex-direction: column;
   border-radius: 20px;
-  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0);
+  box-shadow: 8px 8px 0px rgba(0, 0, 0, 1);
   transition: 0.3s;
 }
 
-.container:hover{
+.container:hover {
   cursor: pointer;
-  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .card {
   border-radius: 10px;
   width: 336px;
   height: 200px;
- margin: 24px;
-overflow: hidden;
+  margin: 24px;
+  overflow: hidden;
 }
 
-.card-content{
+.card-content {
   margin-left: 24px;
   margin-right: 24px;
-  
 }
 
-.card-text{
-  font-family: figtree medium;
+.card-text {
+  font-family: "figtree medium";
   font-size: 17px;
   line-height: 150%;
   color: hsl(217, 19%, 35%);
   height: 72px;
 }
-h1{
-  
-  font-family: figtree ExtraBold;
+h1 {
+  font-family: "figtree ExtraBold";
   font-size: 24px;
   color: inherit;
   height: 24px;
   width: 280px;
 }
 
-h1:hover{
-color: hsl(47, 88%, 63%);
+h1:hover {
+  color: hsl(47, 88%, 63%);
 }
 
-.Published{
-  font-family: figtree medium;
+.Published {
+  font-family: "figtree medium";
   font-size: 14px;
-  color:inherit;
+  color: inherit;
   height: 16px;
   width: 143px;
 }
 
-button{
-  font-family: figtree ExtraBold;
+button {
+  font-family: "figtree ExtraBold";
   font-size: 14px;
   color: inherit;
   background-color: hsl(47, 88%, 63%);
@@ -92,23 +89,21 @@ button{
   padding-bottom: 4px;
   width: 82px;
   height: 29px;
-  
 }
 
-button:hover{
+button:hover {
   cursor: pointer;
-  background-color:#102742;
+  background-color: #102742;
   color: #f4d04e;
 }
 
-.author{
+.author {
   display: flex;
   align-items: center;
   gap: 16px;
   margin-right: 190px;
 }
-.author:hover{
+.author:hover {
   cursor: pointer;
   color: hsl(47, 88%, 63%);
 }
-
