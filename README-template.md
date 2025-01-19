@@ -15,8 +15,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
