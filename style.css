@@ -55,6 +55,7 @@ main {
   line-height: 150%;
   color: hsl(217, 19%, 35%);
   height: 72px;
+  line-height: 150%;
 }
 h1 {
   font-family: "figtree ExtraBold";
@@ -62,6 +63,7 @@ h1 {
   color: inherit;
   height: 24px;
   width: 280px;
+  line-height: 150%;
 }
 
 h1:hover {
@@ -74,10 +76,11 @@ h1:hover {
   color: inherit;
   height: 16px;
   width: 143px;
+  line-height: 150%;
 }
 
 button {
-  font-family: "figtree ExtraBold";
+  font-family: "figtree Extra Bold";
   font-size: 14px;
   color: inherit;
   background-color: hsl(47, 88%, 63%);
@@ -89,6 +92,7 @@ button {
   padding-bottom: 4px;
   width: 82px;
   height: 29px;
+  line-height: 150%;
 }
 
 button:hover {
