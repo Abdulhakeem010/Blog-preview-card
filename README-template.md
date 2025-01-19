@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ### Built with
 
@@ -45,7 +45,10 @@ Users should be able to:
 
 ### Continued development
 
-I need to double down on how to structure my HTMl file and also how to use the flexbox and grid in css.
+-I need to double down on how to structure my HTMl file 
+-Also i need to use the flexbox and grid in css.
+-And then the shadow effect
+
 
 ### Useful resources
 
