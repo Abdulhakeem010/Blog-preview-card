@@ -8,6 +8,8 @@
 
 body {
   background-color: hsl(47, 88%, 63%);
+  font-family: "figtree", sans-serif;
+ 
 }
 
 main {
@@ -45,12 +47,13 @@ main {
 }
 
 .card-content {
+  font-family: inherit;
   margin-left: 24px;
   margin-right: 24px;
 }
 
 .card-text {
-  font-family: "figtree medium";
+  /* font-family: "figtree medium"; */
   font-size: 17px;
   line-height: 150%;
   color: hsl(217, 19%, 35%);
@@ -58,7 +61,8 @@ main {
   line-height: 150%;
 }
 h1 {
-  font-family: "figtree ExtraBold";
+  /* font-family: "figtree ExtraBold";  */
+  font-family: inherit;
   font-size: 24px;
   color: inherit;
   height: 24px;
@@ -71,7 +75,8 @@ h1:hover {
 }
 
 .Published {
-  font-family: "figtree medium";
+  /* font-family: "figtree medium"; */
+  font-family: inherit;
   font-size: 14px;
   color: inherit;
   height: 16px;
@@ -80,7 +85,8 @@ h1:hover {
 }
 
 button {
-  font-family: "figtree Extra Bold";
+  /* font-family: "figtree Extra Bold"; */
+  font-family: inherit;
   font-size: 14px;
   color: inherit;
   background-color: hsl(47, 88%, 63%);
