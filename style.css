@@ -76,7 +76,6 @@ h1:hover {
 }
 
 .Published {
-  /* font-family: "figtree medium"; */
   font-family: inherit;
   font-size: 14px;
   color: inherit;
@@ -86,7 +85,6 @@ h1:hover {
 }
 
 button {
-  /* font-family: "figtree Extra Bold"; */
   font-family: inherit;
   font-size: 14px;
   color: inherit;
