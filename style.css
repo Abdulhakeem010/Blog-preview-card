@@ -53,7 +53,7 @@ main {
 }
 
 .card-text {
-  /* font-family: "figtree medium"; */
+ 
   font-family: inherit;
   font-size: 17px;
   line-height: 150%;
@@ -62,7 +62,7 @@ main {
   line-height: 150%;
 }
 h1 {
-  /* font-family: "figtree ExtraBold";  */
+ 
   font-family: inherit;
   font-size: 24px;
   color: inherit;
