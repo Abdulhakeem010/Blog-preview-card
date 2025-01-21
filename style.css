@@ -39,7 +39,7 @@ main {
   border: #111111 2px solid;
   background: #fff;
   width: 384px;
-  height: 522px;
+  height: 500px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -54,6 +54,7 @@ main {
 }
 
 .card {
+ 
   border-radius: 10px;
   width: 336px;
   height: 200px;
@@ -62,12 +63,16 @@ main {
 }
 
 .card-content {
+ 
   margin-left: 24px;
   margin-right: 24px;
+  /* width: 336px;
+  height: 194px; */
+
+
 }
 
 .card-text {
- 
  font-family: "figtree", sans-serif;
   font-weight: 500;
   font-style: normal;
@@ -75,7 +80,8 @@ main {
   line-height: 150%;
   color: hsl(217, 19%, 35%);
   height: 72px;
-  line-height: 150%;
+  margin-bottom: 12px;
+  /* line-height: 150%; */
 }
 h1 {
   font-family: "figtree", sans-serif;
@@ -83,9 +89,17 @@ h1 {
   font-style: normal;
   font-size: 24px;
   color: inherit;
-  height: 24px;
-  width: 280px;
-  line-height: 150%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* line-height: 150%; */
+
+  /* height: 24px; */
+  /* width: 280px; */
+  
+  /* display: flex; */
+  /* justify-content: center;
+  align-items: center;
+  flex-direction: row; */
 }
 
 h1:hover {
@@ -98,9 +112,11 @@ h1:hover {
   font-style: normal;
   font-size: 14px;
   color: inherit;
-  height: 16px;
-  width: 143px;
-  line-height: 150%;
+  /* line-height: 150%; */
+    /* height: 16px;
+    width: 143px; */
+  
+ 
 }
 
 button {
