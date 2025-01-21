@@ -66,8 +66,7 @@ main {
  
   margin-left: 24px;
   margin-right: 24px;
-  /* width: 336px;
-  height: 194px; */
+  
 
 
 }
@@ -81,7 +80,7 @@ main {
   color: hsl(217, 19%, 35%);
   height: 72px;
   margin-bottom: 12px;
-  /* line-height: 150%; */
+ 
 }
 h1 {
   font-family: "figtree", sans-serif;
@@ -91,15 +90,7 @@ h1 {
   color: inherit;
   margin-top: 0px;
   margin-bottom: 0px;
-  /* line-height: 150%; */
-
-  /* height: 24px; */
-  /* width: 280px; */
-  
-  /* display: flex; */
-  /* justify-content: center;
-  align-items: center;
-  flex-direction: row; */
+ 
 }
 
 h1:hover {
@@ -112,9 +103,6 @@ h1:hover {
   font-style: normal;
   font-size: 14px;
   color: inherit;
-  /* line-height: 150%; */
-    /* height: 16px;
-    width: 143px; */
   
  
 }
