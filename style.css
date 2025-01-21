@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "figtree", sans-serif;
+  src: url(./assets/fonts/static/Figtree-Medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "figtree", sans-serif;
+  src: url(./assets/fonts/static/Figtree-ExtraBold.ttf);
+  font-weight: 900;
+  font-style: normal;
+}
+
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -9,7 +23,8 @@
 body {
   background-color: hsl(47, 88%, 63%);
   font-family: "figtree", sans-serif;
- 
+  font-weight: 500;
+  font-style: normal;
 }
 
 main {
@@ -54,16 +69,19 @@ main {
 
 .card-text {
  
-  font-family: inherit;
-  font-size: 17px;
+ font-family: "figtree", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
   line-height: 150%;
   color: hsl(217, 19%, 35%);
   height: 72px;
   line-height: 150%;
 }
 h1 {
- 
-  font-family: inherit;
+  font-family: "figtree", sans-serif;
+  font-weight: 900;
+  font-style: normal;
   font-size: 24px;
   color: inherit;
   height: 24px;
@@ -85,7 +103,9 @@ h1:hover {
 }
 
 button {
-  font-family: inherit;
+  font-family: "figtree", sans-serif;
+  font-weight: 900;
+  font-style: normal;
   font-size: 14px;
   color: inherit;
   background-color: hsl(47, 88%, 63%);
