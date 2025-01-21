@@ -41,13 +41,14 @@ Users should be able to:
 
 -I learned how to navigative through the figma,how to use the transition and hover effect in css and also how to use the box shadow in css.
 -I was able to understand how the margin and padding works in css.
+-I learned how the font works in css (importing font from google fonts and using font-face.) 
 
 
 ### Continued development
 
 -I need to double down on how to structure my HTMl file 
--Also i need to use the flexbox and grid in css.
--And then the shadow effect
+-Also i need to learn how to use the flexbox and grid in css.
+-And then the shadow effect.
 
 
 ### Useful resources
