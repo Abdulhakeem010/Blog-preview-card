@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Abdulhakeem010/Blog-preview-card
-- Live Site URL: https://blog-preview-card-bigmuaks-projects.vercel.app/
+- Live Site URL: https://blog-preview-card-ioep18xr2-bigmuaks-projects.vercel.app
 
 
 ### Built with
