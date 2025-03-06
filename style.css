@@ -42,7 +42,6 @@ main {
 }
 
 .container {
-  margin-block: auto;
   padding: 20px;
   cursor: pointer;
   border: #111111 2px solid;
