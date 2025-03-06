@@ -42,12 +42,12 @@ main {
 }
 
 .container {
-  padding: 20px;
+  padding: 30px;
   cursor: pointer;
   border: #111111 2px solid;
   background: #fff;
   max-width: 384px;
-  height: 520px;
+  height:fit-content;
   border-radius: 20px;
   box-shadow: 8px 8px 0px rgba(0, 0, 0, 1);
 }
