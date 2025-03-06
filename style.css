@@ -42,7 +42,7 @@ main {
 }
 
 .container {
-  padding: 30px;
+  padding: 25px;
   cursor: pointer;
   border: #111111 2px solid;
   background: #fff;
@@ -121,6 +121,7 @@ h1:hover {
 
 @media screen and (max-width: 425px) {
   .container {
+    padding: 20px;
     width: min(100%, 360px);
     height: fit-content;
   }
