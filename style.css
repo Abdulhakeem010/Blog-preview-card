@@ -47,7 +47,7 @@ main {
   border: #111111 2px solid;
   background: #fff;
   max-width: 384px;
-  height:fit-content;
+  height: fit-content;
   border-radius: 20px;
   box-shadow: 8px 8px 0px rgba(0, 0, 0, 1);
 }
@@ -143,4 +143,7 @@ h1:hover {
   .container {
     width: min(100%, 280px);
   }
+}
+@media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
+ 
 }
